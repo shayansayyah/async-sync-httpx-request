@@ -1,6 +1,3 @@
-# async-sync-httpx-request
-Demo of async vs sync HTTP requests performance using httpx & asyncio. Synchronous runs 4 API calls sequentially, async runs concurrently with dramatic speedup. Perfect for learning async/await patterns, concurrent programming, and I/O-bound optimization. Includes logging and Scalene profiler integration.
-
 # Async vs Sync HTTP Requests Performance Comparison
 
 This project demonstrates the significant performance difference between synchronous and asynchronous HTTP requests using Python's `httpx` library. It provides a clear, practical example of how async programming can dramatically reduce total execution time when making multiple network requests.
